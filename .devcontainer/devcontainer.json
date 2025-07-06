@@ -14,7 +14,7 @@
 	},
 
 	// 👇 Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [5173]
+	"forwardPorts": [3000, 5173]
 
 	// 👇 Configure tool-specific properties.
 	// "customizations": {},
